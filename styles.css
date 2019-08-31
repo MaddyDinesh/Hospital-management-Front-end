@@ -1,0 +1,185 @@
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.ch2{
+  color:#fff;
+}
+
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+#navbarSupportedContent{
+  padding:0 0 4.5rem;
+}
+
+h1{
+font-family: "Montserrat";
+font-size: 3rem;
+line-height: 1.5;
+padding-bottom: 9.5rem;
+
+}
+.pp{
+  text-align: center;
+
+
+
+}
+p{
+  text-align: left;
+  color:grey;
+}
+
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+.fh3{
+  font-family: "Montserrat-bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family:"Montserrat-bold";
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  line-height: 4.5rem;
+}
+body{
+  font-family: "Montserrat";
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.3rem;
+  padding:0 0 4.5rem;
+}
+.nav-item{
+  padding: 0px 10px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-lg";
+}
+.btndownload
+{
+  margin-right: 3%;
+}
+.title-image{
+  width: 100%;
+  height:100%;
+  position: absolute;
+  right:0.5%;
+  bottom: 0.5%;
+  border-radius: 100%;
+}
+/* icon */
+.fas-check-circle{
+color:  #ff4c68;
+}
+#features{
+  padding:3% 15%;
+  background-color: #fff;
+  position: relative;
+
+}
+.fa-female{
+  color:#ef8172;
+;
+}
+.icon{
+  color:#ef8172;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68;
+
+}
+.brbtn{
+  margin: 3% auto;
+}
+.featur-box{
+  text-align: center;
+  padding: 5%
+}
+.container{
+width:200px;
+height: 120px;
+}
+.container img{
+  width: 200px;
+  height: 120px;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  padding: 7% 15%;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+}
+.press-img{
+  border-radius: 50%;
+  width:20%;
+  padding: 3% 2%;
+}
+.carousel-item{
+  padding: 3% 15%;
+}
+.carousel-control-prev{
+  margin-left:0.5rem;
+}
+.emi{
+  color:#fff;
+}
+
+/* cta */
+#cta{
+  background-color: #ff4c68;
+  color:#fff;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Montserrat";
+  padding: 7% 15%;
+}
+
+
+/* pricing */
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.ptb{
+  padding:3% 5%;
+}
+
+@media (max-width: 1250px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    padding-top: 15%;
+    transform: rotate(0deg);
+  }
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.fic{
+  margin:20px 10px;
+}
